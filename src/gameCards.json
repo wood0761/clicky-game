@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Frodo Baggins",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Elijah_Wood_as_Frodo_Baggins.png/220px-Elijah_Wood_as_Frodo_Baggins.png",
+        "clicked": "false"
+    },
+    {
+        "id": 2,
+        "name": "Sarumon",
+        "image": "https://rlv.zcache.co.uk/saruman_and_foes_square_sticker-rbdf2fadf44d64bfe8e5e665f459a7efd_v9wf3_8byvr_307.jpg?rvtype=content",
+        "clicked": "false"
+    },
+    {
+        "id": 3,
+        "name": "Gandalf the Grey",
+        "image": "http://www.bladecenter.com/images/products/detail/UC2926_1.jpg",
+        "clicked": "false"
+    },
+    {
+        "id": 4,
+        "name": "Gandalf the White",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Gandalf600ppx.jpg/220px-Gandalf600ppx.jpg",
+        "clicked": "false"
+    },
+    {
+        "id": 5,
+        "name": "Sam",
+        "image": "http://www.thelandofshadow.com/wp-content/uploads/2016/11/SamwiseBrave.jpg",
+        "clicked": "false"
+    },
+    {
+        "id": 6,
+        "name": "Pippin",
+        "image": "https://pbs.twimg.com/profile_images/3464324885/23ec56fcf2df36194241a8a2872e7218_400x400.jpeg",
+        "clicked": "false"
+    },
+    {
+        "id": 7,
+        "name": "Meriadoc Brandybuck",
+        "image": "https://pbs.twimg.com/profile_images/91843384/merry_400x400.jpg",
+        "clicked": "false"
+    },
+    {
+        "id": 8,
+        "name": "Sauron",
+        "image": "https://rlv.zcache.com/sauron_square_sticker-r08c0e414301e4e16acd1616eb5aab293_v9wf3_8byvr_307.jpg?rvtype=content",
+        "clicked": "false"
+    },
+    {
+        "id": 9,
+        "name": "Aragorn",
+        "image": "https://rlv.zcache.com/aragorn_sword_down_square_sticker-rc023beca980f4aadba13966f4d739e4b_v9wf3_8byvr_307.jpg?rvtype=content",
+        "clicked": "false"
+    },
+    {
+        "id": 10,
+        "name": "Legolas",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-the-lord-of-the-rings-orlando-bloom.jpg",
+        "clicked": "false"
+    },
+    {
+        "id": 11,
+        "name": "Gimli",
+        "image": "https://pbs.twimg.com/profile_images/3391650898/35d703af785ab87c4f480b34342b6af8_400x400.jpeg",
+        "clicked": "false"
+    },
+    {
+        "id": 12,
+        "name": "Boromir",
+        "image": "https://static.giantbomb.com/uploads/scale_medium/2/27024/857251-boromir6.jpg",
+        "clicked": "false"
+    }
+]
